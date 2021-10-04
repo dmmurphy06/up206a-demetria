@@ -10,4 +10,4 @@
  * Poverty Status in the Past 12 Months by Sex By Age (Black or African American Alone) (2019 ACS 5 Year Est.)
  * This data set shows Black poverty status by gender.  I’m interested in what correlations exist between poverty status and paid family leave. Are families in deeper poverty more likely to have less access to paid leave? Showing this allows one to see the breakdown of one type of care infrastructure and the prevalence of it in specific communities.
  * [Source Link](https://api.census.gov/data/2019/acs/acs5) - Tables referenced include B17001B.
- * [Repo Link](
+ * [Repo Link](https://github.com/dmmurphy06/up206a-demetria/blob/main/Data/POVERTY%20STATUS%20IN%20THE%20PAST%2012%20MONTHS%20BY%20SEX%20BY%20AGE%20(BLACK%20OR%20AFRICAN%20AMERICAN%20ALONE)%20ACS%205%20year%202019.xlsx)
