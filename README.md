@@ -4,7 +4,7 @@ Hey everyone! My name is **Demetria Murphy** and I am a **2nd year MURP** focusi
   >When I dare to be powerful to use my strength in service of my vision, 
   >then it becomes less and less important whether I am afraid.
 
-This perfectly sums up my mindset embarking on the world of GIS and Spatial Data Science. I am excited to get to know and learn from all of your work.
+This perfectly sums up my mindset embarking on the world of GIS and Spatial Data Science. I am excited to get to know and learn from all of you.
 # <hl> Course Description
 This course, Intro to GIS and Spatial Data Science, is focusing on using *both* of these as **tools of analysis of urban issues**, yesterday, today, and tomorrow and **vehicles of urban policy change**.
 # <hl> My Course Goals
