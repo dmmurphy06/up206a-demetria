@@ -1,6 +1,6 @@
 # up206a-demetria
 # <hl> About Me
-#My name is Demetria and I am a 2nd year MURP focusing on Community Economic Development and Housing.
+My name is Demetria and I am a 2nd year MURP focusing on Community Economic Development and Housing.
 # <hl> Course Description
 #This course, GIS and Spatial Data Science, is focusing on using data visualization as a tool of analysis of urban issues, yesterday, today, and tomorrow.
 # <hl> Course Goals
