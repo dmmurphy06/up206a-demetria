@@ -15,4 +15,4 @@ My goals for this course are:
 * **Communicate data clearly for others** to develop their **own spatial analyses** on an urban issue and influence policy change
 # <hl> Project Ideas
 One idea I have is to better map the state of Black workers in Southern California. *To what extent are Black workers thriving in the Southern California? Particularly, how is the undue burden of care labor on Black women impacting the state of Black women workers?* The Essential Stories Project, a movement building advocacy campaign created to uplift the voices and experiences of Black workers in California to ensure there is comprehensive and long-term COVID-19 recovery support, resources, and protections recently surveyed almost 1800 Black workers in Southern California, majority women.
- [Here](https://covidandblackworkers.org/) is more about the project.
+ [Here](https://covidandblackworkers.org/) is more about the project and also some [initial data](https://github.com/dmmurphy06/up206a-demetria/blob/main/Data/ES%20Master%20File_All%20Data.csv).
