@@ -3,7 +3,7 @@
 Hey everyone! My name is **Demetria Murphy** and I am a **2nd year MURP** focusing on **Community Economic Development and Housing**. My interests include infrastructure of care and the future of work. I consider *both* Los Angeles and Las Vegas, NV home. Audre Lorde proclaimed boldly:
   >When I dare to be powerful to use my strength in service of my vision, 
   >then it becomes less and less important whether I am afraid.
-I'd like to think this perfectly sums up my mindset embarking on the world of GIS and Spatial Data Science. I am excited to get to know and learn from all of your work.
+#I'd like to think this perfectly sums up my mindset embarking on the world of GIS and Spatial Data Science. I am excited to get to know and learn from all of your work.
 # <hl> Course Description
 This course, GIS and Spatial Data Science, is focusing on using data visualization as a tool of analysis of urban issues, yesterday, today, and tomorrow.
 # <hl> Course Goals
